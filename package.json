@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "antd": "3.26.20",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-force-graph-2d": "1.17.6",
+    "react-force-graph-3d": "1.21.7",
+    "react-three-fiber": "5.3.10",
+    "redux-persist": "6.0.0",
+    "redux-storage": "4.1.2",
+    "three": "0.120.1",
+    "three-css2drender": "1.0.0"
+  },
+  "name": "0cqgeu",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
